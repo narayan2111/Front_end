@@ -1,6 +1,13 @@
 # Front_end
 Build a responsive front-end website: This involves using HTML, CSS, and JavaScript to create a website that can adapt to different screen sizes and devices. Many coding communities have tutorials, challenges, and forums dedicated to responsive web design.
 
+## Project
+Project Name: Responsive front-end website <br/>
+Team Leader : Narayan Dwivedi <br/>
+Team Members : Mayank Shukla,Shivam Rai, & Narayan Dwivedi
+ 
+
+
 # Web Page
 ## Desktop View
 <img width="960" alt="Laptop" src="https://user-images.githubusercontent.com/66173390/235499087-1524054e-fbbc-4e6b-9347-bd634031577f.png">
