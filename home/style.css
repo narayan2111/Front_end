@@ -7,18 +7,18 @@
 
 body {
     height: 100vh;
-    background-color: black;
-    background-image: url(images/background.jpg);
+    background-color: orangered;
+    background-image: url(images/background6.jpg);
     background-size: cover;
     background-position: center;
 }
 
 li {
-    list-style: none;
+    list-style: none ;
 }
 a {
     text-decoration: none;
-    color: #0c0101;
+    color: #0a0202bf;
     font: 1em sans-serif;
     font-family: 'trebuchet ms', 'lucida sans unicode', 'lucida grande', 'lucida sans', arial, sans-serif;
 }
@@ -36,7 +36,7 @@ header {
 
 .navbar {
     width: 100%;
-    height: 60px;
+    height: 68px;
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
@@ -47,13 +47,13 @@ header {
 .navbar .logo a {
     font-size: 2rem;
     font-weight: 600;
-    color: rgb(14, 114, 114);
+    color: rgba(2, 8, 10, 0.908);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .navbar .links {
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
 }
 
 
@@ -63,7 +63,7 @@ header {
 .navbar .toggle-btn {
    
     font-size: 1.5rem;
-    color: white;
+    color: rgba(134, 130, 130, 0.929);
     cursor: pointer;
     display: none;
 }
@@ -129,8 +129,8 @@ section#hero {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: rgb(1, 2, 11);
-    text-align: center;
+    color: rgb(231, 231, 235);
+    text-align: center ;
     font-family: 'poppins', sans-serif;
     
     
@@ -140,7 +140,7 @@ section#hero {
     font-size: 3rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #7c0606;
+    color: #eee9e9;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -148,8 +148,16 @@ section#hero {
     font-size: 1.2rem;
     font-weight: 500;
     margin-bottom: 2rem;
-    color: #100101;
+    color: #e6e5e3;
     font-family: 'Times New Roman', Times, serif;
+}
+
+#about   {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #7c0a06;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 /* Responsive Design */
 
